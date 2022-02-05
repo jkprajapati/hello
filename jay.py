@@ -7,6 +7,18 @@ dipen=9999
 # test2=rutik>subham and rutik>dipen
 # test3=subham>dipen
 
+# test1=jay>rutik and jay>subham and jay>dipen
+# test2=rutik>subham and rutik>dipen
+# test3=subham>dipen
+
+# test1=jay>rutik and jay>subham and jay>dipen
+# test2=rutik>subham and rutik>dipen
+# test3=subham>dipen
+
+# test1=jay>rutik and jay>subham and jay>dipen
+# test2=rutik>subham and rutik>dipen
+# test3=subham>dipen
+
 if jay>rutik and jay>subham:
     print("jay")
 elif rutik>subham and rutik>dipen:

@@ -1,4 +1,4 @@
-1- first intialize git reposetory commends
+1- first intialize git reposetory commends(do it only once)
 git init 
 
 2- then add all files
@@ -9,3 +9,6 @@ git commit -m "any message"
 
 4- push all commited work to my reposetory
 git push -u origin master 
+
+sfsdfsfsdfsdf
+sdfsfsfsdf
