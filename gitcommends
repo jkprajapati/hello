@@ -1,0 +1,11 @@
+1- first intialize git reposetory commends
+git init 
+
+2- then add all files
+git add .
+
+3- commit your changes
+git commit -m "any message"
+
+4- push all commited work to my reposetory
+git push -u origin master 
